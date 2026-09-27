@@ -1,0 +1,39 @@
+{
+  "$GMProject":"v1",
+  "%Name":"snake game tutorial",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.0.0.16",
+  },
+  "name":"snake game tutorial",
+  "resources":[
+    {"id":{"name":"fnt_default_big","path":"fonts/fnt_default_big/fnt_default_big.yy",},},
+    {"id":{"name":"obj_apple","path":"objects/obj_apple/obj_apple.yy",},},
+    {"id":{"name":"obj_snake_body","path":"objects/obj_snake_body/obj_snake_body.yy",},},
+    {"id":{"name":"obj_snake","path":"objects/obj_snake/obj_snake.yy",},},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"id":{"name":"spr_apple","path":"sprites/spr_apple/spr_apple.yy",},},
+    {"id":{"name":"spr_snake_cube","path":"sprites/spr_snake_cube/spr_snake_cube.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
